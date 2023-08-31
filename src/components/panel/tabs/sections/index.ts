@@ -1,0 +1,6 @@
+export { default as SectionAdvantages } from './SectionAdvantages.vue'
+export { default as SectionFAQ } from './SectionFAQ.vue'
+export { default as SectionHero } from './SectionHero.vue'
+export { default as SectionPartners } from './SectionPartners.vue'
+export { default as SectionServices } from './SectionServices.vue'
+export { default as SectionTestimonials } from './SectionTestimonials.vue'
